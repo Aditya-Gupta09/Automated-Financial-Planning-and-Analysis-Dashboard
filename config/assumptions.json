@@ -1,0 +1,9 @@
+{
+  "revenue_growth_rate": 0.10,
+  "cogs_percentage": 0.55,
+  "operating_expense_percentage": 0.20,
+  "tax_rate": 0.25,
+  "ar_days": 45,
+  "ap_days": 30,
+  "capex_growth_rate": 0.08
+}
